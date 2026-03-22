@@ -79,6 +79,7 @@ _All components run locally — no external APIs_
 ---
 
 ## 📸 Sample Output
+Real query-response output from the system:
 
 ![Demo](demo.png)
 
